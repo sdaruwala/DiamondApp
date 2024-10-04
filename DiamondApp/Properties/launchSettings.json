@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiamondApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C"
+    }
+  }
+}
